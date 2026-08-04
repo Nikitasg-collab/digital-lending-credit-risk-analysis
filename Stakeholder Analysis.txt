@@ -1,8 +1,0 @@
-# Stakeholder Analysis
-
-| Stakeholder | Interest | Requirement |
-|---|---|---|
-| Risk Team | Reduce defaults | Risk insights |
-| Management | Business performance | Dashboard reports |
-| Loan Team | Better decisions | Customer risk data |
-| Analysts | Data analysis | Clean dataset |
