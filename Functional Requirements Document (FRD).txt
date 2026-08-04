@@ -1,0 +1,48 @@
+# Functional Requirements Document
+
+## Functional Requirements
+
+### FR-01 Loan Portfolio Analysis
+
+System should calculate:
+
+- Total Loans
+- Total Loan Amount
+- Average Loan Amount
+- Default Count
+- Default Rate
+
+
+---
+
+### FR-02 Customer Risk Segmentation
+
+System should categorize customers based on:
+
+- Credit Score
+- Income
+- Existing Loans
+- Debt-to-Income Ratio
+
+
+---
+
+### FR-03 Default Analysis
+
+Dashboard should show:
+
+- Default trends
+- High-risk categories
+- Customer segments with maximum defaults
+
+
+---
+
+### FR-04 Reporting
+
+Users should be able to view:
+
+- KPI summary
+- Charts
+- Filters
+- Loan performance metrics

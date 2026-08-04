@@ -1,0 +1,38 @@
+# Business Requirements Document (BRD)
+
+## Project Name
+Digital Lending Credit Risk Analysis
+
+## Business Objective
+
+To develop an analytics solution that helps the lending team identify risky customers and reduce loan defaults.
+
+---
+
+# Business Goals
+
+1. Reduce credit risk exposure
+2. Improve loan approval decisions
+3. Identify high-risk customer segments
+4. Monitor loan portfolio performance
+
+---
+
+# Stakeholders
+
+| Stakeholder | Responsibility |
+|---|---|
+| Credit Risk Team | Evaluate borrower risk |
+| Business Managers | Monitor portfolio performance |
+| Loan Officers | Approve/reject applications |
+| Data Analysts | Generate insights |
+
+---
+
+# Business Questions
+
+1. What is the overall default rate?
+2. Which employment groups have higher defaults?
+3. Does credit score impact repayment?
+4. Which loan purposes have maximum risk?
+5. Which branches have higher default rates?

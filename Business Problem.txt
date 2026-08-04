@@ -1,0 +1,20 @@
+# Business Problem Statement
+
+Digital lending platforms process thousands of loan applications every month.
+
+However, increasing loan defaults impact:
+- Revenue
+- Cash flow
+- Risk exposure
+- Customer portfolio quality
+
+
+The business wants to analyze historical loan data to answer:
+
+1. What factors contribute to loan defaults?
+2. Which customer segments are high risk?
+3. Which loan products have higher default rates?
+4. How can risk teams improve loan approval decisions?
+
+
+The project focuses on analyzing customer demographics, financial attributes, loan characteristics, and repayment behavior.
